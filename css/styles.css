@@ -193,7 +193,9 @@ body {
   text-transform: capitalize;
   color: var(--main-color);
 }
-
+.progect-photo {
+  width: calc((100% - 48px) / 3)
+}
 .progect {
   display: flex;
   align-items: center;
