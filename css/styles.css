@@ -164,14 +164,13 @@ body {
   letter-spacing: 0.02em;
   color: var(--main-color);
 }
-.list-features-second {
-  width: calc((100% - 72px) / 4);
-}
+
 .features-list:not(:last-child) {
   margin-right: 24px;
 }
 .features-list {
   padding-top: 70px;
+  width: calc((100% - 72px) / 4);
 }
 
 .features-text {
