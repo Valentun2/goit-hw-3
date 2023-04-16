@@ -198,6 +198,8 @@ body {
 }
 .progect-list {
   display: flex;
+}
+.progect-photo {
   width: calc((100% - 48px) / 3);
 }
 .progect-photo:not(:last-child) {
